@@ -1,1 +1,1 @@
-
+print('Cálculo Trabalhista')
